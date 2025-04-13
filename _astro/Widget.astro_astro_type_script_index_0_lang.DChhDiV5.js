@@ -1,0 +1,1 @@
+import{g as t}from"./index.Brfk6Bdo.js";const e=()=>document.getElementById("whatsapp-widget")!==null;document.addEventListener("astro:page-load",()=>{e()&&t.context(()=>{t.to("[data-widget-appear]",{opacity:1,duration:1,ease:"none"})})},{once:!0});
